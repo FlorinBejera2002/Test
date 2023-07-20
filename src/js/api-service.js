@@ -1,0 +1,1 @@
+//FT-21 Conectează/creează Loader (spinner) pentru cereri asincrone  
