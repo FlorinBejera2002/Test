@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://cristina-irina.github.io/JS-project/",
+  "homepage": "https://github.com/FlorinBejera2002/Test",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /JS-project/"
+    "build": "parcel build src/*.html --public-url /Test/"
   },
   "repository": {
     "type": "git",
